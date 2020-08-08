@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <!-- Pet Names -->
+    <string name="koala">Koala</string>
+    <string name="monkey">Monkey</string>
+    <string name="panda">Panda</string>
+    <string name="pig">Pig</string>
+    <string name="rooster">Rooster</string>
+    <string name="bear">Bear</string>
+    <string name="tiger">Tiger</string>
+    <string name="frog">Frog</string>
+    <string name="fox">Fox</string>
+
+    <!-- Pet like values -->
+    <string name="koala_value">2</string>
+    <string name="monkey_value">6</string>
+    <string name="panda_value">8</string>
+    <string name="pig_value">10</string>
+    <string name="rooster_value">25</string>
+    <string name="bear_value">3</string>
+    <string name="tiger_value">5</string>
+    <string name="frog_value">16</string>
+    <string name="fox_value">5</string>
+
+    <!-- Card View -->
+    <string name="name_pet">Name Pet</string>
+    <string name="rate_pet">0</string>
+    <string name="rate_favorite_pet">00</string>
+
+    <!-- Menu -->
+    <string name="exitApp">Exit</string>
+    <string name="favorite_menu_title">Favorite</string>
+
+
+    <!-- Toast Messages  -->
+    <string name="add_favorite">Added to favorites</string>
+    <string name="remove_favorite">Has been removed from favorites</string>
+    <string name="my_favorite_pets">My Favorite Pets</string>
+    <string name="msg_no_pets_list">There are no pets added to the list</string>
+    <string name="format_like">%02d</string>
+
+</resources>

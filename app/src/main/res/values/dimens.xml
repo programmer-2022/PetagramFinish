@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="cardview_corner_radius">4dp</dimen>
+
+    <!-- IMAGE SIZE CARDVIEW -->
+    <dimen name="img_height">300dp</dimen>
+
+    <dimen name="fb_camera_margin">16dp</dimen>
+    <dimen name="elevation_bar">4dp</dimen>
+</resources>
